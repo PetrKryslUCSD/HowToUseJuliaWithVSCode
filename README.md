@@ -9,6 +9,10 @@ $ cat ./code
 "C:\Users\PKrysl\AppData\Local\Programs\Microsoft VS Code\Code.exe"
 ```
 
+## Extensions
+
+Install `Julia`, `Material Icon  Theme`, and  `TabNine` extensions.
+
 ## Bookmarks
 Used to `Bookmarks` extension.
 
