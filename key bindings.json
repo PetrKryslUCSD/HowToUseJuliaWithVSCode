@@ -1,0 +1,20 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+d",
+        "command": "-workbench.view.debug"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "editor.action.duplicateSelection"
+    },
+    {
+        "key": "ctrl+alt+enter",
+        "command": "-notebook.cell.execute",
+        "when": "notebookEditorFocused"
+    },
+    {
+        "key": "ctrl+alt+enter",
+        "command": "language-julia.executeFile"
+    }
+]
